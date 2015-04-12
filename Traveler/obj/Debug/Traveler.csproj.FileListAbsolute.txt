@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Traveler\Traveler\bin\Traveler.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Traveler\Traveler\bin\Traveler.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Traveler\Traveler\obj\Debug\Traveler.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Traveler\Traveler\obj\Debug\Traveler.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Traveler\Traveler\obj\Debug\Traveler.csprojResolveAssemblyReference.cache
